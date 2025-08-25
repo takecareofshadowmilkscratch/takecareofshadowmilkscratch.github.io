@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://https://takecareofshadowmilkscratch.github.io/sitemap.xml
+Sitemap: https://takecareofshadowmilkscratch.github.io/sitemap.xml
